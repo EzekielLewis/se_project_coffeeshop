@@ -40,6 +40,11 @@
   text-decoration: none;
 }
 
+.nav__link:hover {
+  transition: color 0.6s ease-in-out;
+  color: #2f80ed;
+}
+
 .header__title {
   max-width: 729px;
   font-size: 60px;
