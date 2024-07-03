@@ -1,0 +1,52 @@
+.about {
+  background-color: #0a2850;
+  color: white;
+  overflow: hidden;
+  display: flex;
+  position: relative;
+}
+
+.about__title {
+  max-width: 251px;
+  padding: 100px 0 0 80px;
+  z-index: 2;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin-left: -15px;
+}
+
+.about__content {
+  position: relative;
+  left: 430px;
+  max-width: 660px;
+  padding: 119px 80px 173px 0;
+  width: 645px;
+}
+
+.about__paragraph {
+  padding-bottom: 20px;
+  margin: 0;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about__paragraph:last-child {
+  padding-bottom: 0px;
+}
+
+.about__circle {
+  background-color: #2f80ed;
+  width: 426px;
+  height: 426px;
+  position: absolute;
+  border-radius: 50%;
+  top: -152px;
+  left: -129px;
+  z-index: 1;
+}
