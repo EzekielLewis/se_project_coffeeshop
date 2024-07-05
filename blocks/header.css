@@ -23,8 +23,7 @@
 }
 
 .header__span-accent {
-  font-family: "Noto Serif", "Times New Roman", Times,
-    "generic sans-serif" "Arial", "sans-serif";
+  font-family: "Noto Serif", "sans-serif";
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
@@ -38,9 +37,10 @@
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
-  font-family: "Noto Serif", "Times New Roman", Times, "generic sans-serif";
+  font-family: "Noto Serif", "generic sans-serif";
   font-style: normal;
   font-weight: normal;
+  z-index: 1;
 }
 
 .header__image {
@@ -59,7 +59,7 @@
   display: flex;
   justify-content: space-between;
   margin-top: auto;
-  font-family: "Inter", "Arial", "generic sans-serif";
+  font-family: "Inter", "generic sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;

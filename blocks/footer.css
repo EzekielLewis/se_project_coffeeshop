@@ -21,8 +21,7 @@
   margin-top: -17px;
   margin-bottom: 0;
   padding-bottom: 20px;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif" "Arial",
-    "sans-serif";
+  font-family: "Inter", "sans-serif";
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -31,8 +30,7 @@
 
 .footer__list-item {
   padding-bottom: 16px;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif" "Arial",
-    "sans-serif";
+  font-family: "Inter", "sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -67,8 +65,7 @@
 .footer__copyright {
   padding-top: 108px;
   color: white;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif" "Arial",
-    "sans-serif";
+  font-family: "Inter", "generic sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
