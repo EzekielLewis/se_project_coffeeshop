@@ -10,12 +10,13 @@
   max-width: 251px;
   padding: 100px 0 0 80px;
   z-index: 2;
-  font-family: "Inter";
+  font-family: "Inter" "Times New Roman", Times, "generic sans-serif" "Arial",
+    "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin-left: -15px;
+  margin: 0 0 0 -15px;
 }
 
 .about__content {
@@ -29,7 +30,8 @@
 .about__paragraph {
   padding-bottom: 20px;
   margin: 0;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif" "Times New Roman", Times,
+    "generic sans-serif" "Arial", "sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -52,7 +54,6 @@
 }
 
 .about__circle_animation_blurred {
-  background-color: #2f80ed;
   animation: pulsate 1.5s ease-in-out 0s infinite;
 }
 
