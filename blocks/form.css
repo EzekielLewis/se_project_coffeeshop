@@ -11,8 +11,7 @@
 .form__label {
   margin-bottom: 32px;
   display: block;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif", "Arial",
-    "sans-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -27,8 +26,7 @@
   height: 60px;
   padding-left: 15px;
   padding-right: 15px;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif" "Arial",
-    "sans-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -42,8 +40,7 @@
   margin-bottom: 32px;
   transition: opacity 0.5s ease-in-out;
   height: 60px;
-  font-family: "Inter", "Times New Roman", Times, "generic sans-serif" "Arial",
-    "sans-serif";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
